@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "608742495357",
+    "firebase_url": "https://delen-93390.firebaseio.com",
+    "project_id": "delen-93390",
+    "storage_bucket": "delen-93390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608742495357:android:371d69af7568a856",
+        "android_client_info": {
+          "package_name": "com.example.veloxigami.delen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608742495357-q1a3r37hd3cbqtc0cpte4emcpgefucq6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veloxigami.delen",
+            "certificate_hash": "37349afd007236b2e62d6739c81abe7616ab9fa5"
+          }
+        },
+        {
+          "client_id": "608742495357-2qfbtlkthkag13q51grm7di5kreo1qv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHuc26d5Zi48znSkUqago5RuP_rGnLDxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608742495357-2qfbtlkthkag13q51grm7di5kreo1qv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
